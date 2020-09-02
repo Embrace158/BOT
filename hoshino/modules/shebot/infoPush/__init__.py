@@ -41,17 +41,17 @@ _inf_svs = {
         Info('/bilibili/user/dynamic/353840826')
         ],
     Service('UP 主投稿') : [
-        Info('/bilibili/user/video/50329118'), 
-        ]，
+        Info('/bilibili/user/video/50329118')
+        ],
     Service('Epic store') : [
-        Info('/epicgames/freegames'), 
+        Info('/epicgames/freegames')
         ],
     Service('崩坏 3 - 游戏公告') : [
-        Info('/mihoyo/bh3/latest'), 
+        Info('/mihoyo/bh3/latest') 
         ],
     Service('明日方舟') : [
-        Info('/arknights/news'), 
-        ],  
+        Info('/arknights/news') 
+        ]
     #Service('HoshinoIssue推送') : [Info('/github/issue/Ice-Cirno/Hoshinobot')]
 }
 
